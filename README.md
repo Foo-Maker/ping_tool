@@ -1,2 +1,4 @@
 # ping_tool
-a litle tool to ping. 
+A litle tool to ping. 
+
+This tool is just to learn and test.
